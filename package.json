@@ -15,7 +15,7 @@
   "author": "Rodrigo Luque",
   "license": "ISC",
   "dependencies": {
-    "@bull-board/koa": "^3.5.4",
+    "@bull-board/koa": "^3.11.1",
     "@koa/router": "^10.1.1",
     "bull": "^3.29.1",
     "koa": "^2.13.1",
